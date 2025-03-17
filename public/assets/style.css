@@ -20,7 +20,7 @@ body {
   
   #sidebar ul.components {
     padding: 20px 0;
-    border-bottom: 1px solid #47748b;
+    /* border-top: 1px solid #47748b; */
   }
   
   #sidebar ul p {
@@ -172,6 +172,7 @@ body {
   li span.text-create-task {
     color: #C5C7CD !important;
   }
+  
   
   @media (max-width: 768px) {
     #sidebar {
